@@ -1,0 +1,1 @@
+document.write('\x3cdiv class=\"image-advertisement\" id=\"ad-55\"\x3e\x3ca href=\"http://belfert.by/ad/redirect/55/t9?url=node\" onclick=\"window.open(this.href); return false;\"\x3e\x3cimg src=\"https://belfert.by/sites/default/files/product.jpg\" alt=\"\" title=\"\" width=\"401\" height=\"150\" /\x3e\x3c/a\x3e\x3c/div\x3e');
